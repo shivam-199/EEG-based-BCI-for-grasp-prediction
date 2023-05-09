@@ -1,0 +1,4 @@
+condsFile,condMessage
+stim/palmDown.csv,Your palms will face in the downward direction.
+stim/palmIn.csv,Your palms will face in the inward direction.
+stim/palmUp.csv,Your palms will face in the upward direction.
