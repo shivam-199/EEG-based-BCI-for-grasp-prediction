@@ -1,0 +1,47 @@
+bin 1
+Palm In Left Close
+.{ActionBeg-palmIn-Left-Close}
+
+bin 2
+Palm In Right Close
+.{ActionBeg-palmIn-Right-Close}
+
+bin 3
+Palm In Left Open
+.{ActionBeg-palmIn-Left-Open}
+
+bin 4
+Palm In Right Open
+.{ActionBeg-palmIn-Right-Open}
+
+bin 5
+Palm Down Left Close
+.{ActionBeg-palmDown-Left-Close}
+
+bin 6
+Palm Down Right Close
+.{ActionBeg-palmDown-Right-Close}
+
+bin 7
+Palm Down Left Open
+.{ActionBeg-palmDown-Left-Open}
+
+bin 8
+Palm Down Right Open
+.{ActionBeg-palmDown-Right-Open}
+
+bin 9
+Palm Up Left Close
+.{ActionBeg-palmUp-Left-Close}
+
+bin 10
+Palm Up Right Close
+.{ActionBeg-palmUp-Right-Close}
+
+bin 11
+Palm Up Left Open
+.{ActionBeg-palmUp-Left-Open}
+
+bin 12
+Palm Up Right Open
+.{ActionBeg-palmUp-Right-Open}
