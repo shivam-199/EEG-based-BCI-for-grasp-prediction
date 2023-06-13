@@ -2,7 +2,8 @@ import cv2
 import numpy as np
 import os
 
-os.chdir("../")
+#os.chdir("../")
+os.chdir("/mnt/sda1/shivam/Thesis/Grasp Experiment/Data/Videos/to osf")
 
 blur_video_names = [
     "FP01.mkv",

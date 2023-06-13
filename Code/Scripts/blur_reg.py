@@ -1,3 +1,9 @@
+import os
+
+dir_path = "/mnt/sda1/shivam/Thesis/Grasp Experiment/Data/Videos/to osf"
+blur_videos_list = ['FP08.mkv', 'FP05.mkv', 'FP01.mkv', 'FP03.mkv', 'FP06.mkv', 'FP02.mkv', 'FP10.mkv', 'FP12.mkv', 'FP07.mkv', 'FP09.mkv', 'FP11.mkv', 'FP13.mkv']
+
+'''
 import cv2
 
 # Load the video
@@ -45,3 +51,6 @@ while cap.isOpened():
 cap.release()
 writer.release()
 cv2.destroyAllWindows()
+
+'''
+
