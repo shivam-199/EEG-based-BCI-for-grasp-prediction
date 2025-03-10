@@ -1,0 +1,10 @@
+{
+    "notebook.find.filters": {
+
+        "markupSource": true,
+        "markupPreview": true,
+        "codeSource": true,
+        "codeOutput": true,
+        "notebook.experimental.outputScrolling": true
+    }
+}
